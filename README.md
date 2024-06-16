@@ -18,13 +18,13 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 
 #### Programming
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/jcarbonnell)
-[![Rust](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/jcarbonnell)
-[![Python](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/jcarbonnell)
+[![Rust](https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=323330)](https://github.com/jcarbonnell)
+[![Python](https://img.shields.io/badge/Python-777BB3?style=for-the-badge&logo=rust&logoColor=323330)](https://github.com/jcarbonnell)
 
 #### Writing
-[![Medium](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]([https://juliencarbonnell.medium.com/)
-[![Book](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]([https://a.co/d/0Ox4saC])
+[![Medium](https://img.shields.io/badge/Medium-F24E1E?style=for-the-badge=figma&logoColor=white)]([https://juliencarbonnell.medium.com/)
+[![Book](https://img.shields.io/badge/Book-31A8FF?style=for-the-badge=figma&logoColor=white)]([https://a.co/d/0Ox4saC])
 
 #### Chill
-[![Music Production](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]([https://digitaloverdrive.bandcamp.com/])
+[![Music Production](https://img.shields.io/badge/-Music_Production-000000?Color=white)]([https://digitaloverdrive.bandcamp.com/])
 [![Martial Arts](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/jcarbonnell)
