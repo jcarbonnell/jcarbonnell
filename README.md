@@ -3,15 +3,15 @@
 I'm a blockchain & AI developer with a background in urban development and civic technologies.
 Currently building Partage, a p2p sharing network of real-world items on the blockchain.
 
-## Training
+## Experience
 
-2024 - Buildspace #s5 
-2024 - Top 2 NEAR Horizon #HZN2
-2023 - Top 10 NEARCON IRL hackathon
-2023 - Encode x NEAR Horizon bootcamp
-2022 - Top 2 Web3 startup lab
-2022 - Machine Learning Degree at opencampus.sh 
-2020 - Ironhack Berlin 2020
+- 2024 - Buildspace #s5 
+- 2024 - Top 2 NEAR Horizon #HZN2
+- 2023 - Top 10 NEARCON IRL hackathon
+- 2023 - Encode x NEAR Horizon bootcamp
+- 2022 - Top 2 Web3 startup lab
+- 2022 - Machine Learning Degree at opencampus.sh 
+- 2020 - Ironhack Berlin 2020
 
 ## Skills
 
