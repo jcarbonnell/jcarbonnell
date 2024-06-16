@@ -27,4 +27,4 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 
 #### Chill
 [![Music Production](https://img.shields.io/badge/-Music_Production-000000?Color=white)]([https://digitaloverdrive.bandcamp.com/])
-[![Martial Arts](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/jcarbonnell)
+[![Martial Arts](https://img.shields.io/badge/Martial_Arts-000000?Color=white)](https://github.com/jcarbonnell)
