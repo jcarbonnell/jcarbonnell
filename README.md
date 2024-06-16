@@ -5,7 +5,6 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 
 ------------
 
-<!--
 ## Training
 
 2024 - Buildspace #s5 
