@@ -23,7 +23,7 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 
 #### Writing
 [![Medium](https://img.shields.io/badge/-Medium-000000?Color=white)]([https://juliencarbonnell.medium.com/)
-[![Book](https://img.shields.io/badge/-Book Author-000000?Color=white)]([https://a.co/d/0Ox4saC])
+[![Book](https://img.shields.io/badge/-Book_Author-000000?Color=white)]([https://a.co/d/0Ox4saC])
 
 #### Chill
 [![Music Production](https://img.shields.io/badge/-Music_Production-000000?Color=white)]([https://digitaloverdrive.bandcamp.com/])
