@@ -1,9 +1,5 @@
-## Hi there 👋
-
 I'm a blockchain & AI developer with a background in urban development and civic technologies.
 Currently building Partage, a p2p sharing network of real-world items on the blockchain.
-
-------------
 
 ## Training
 
