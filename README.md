@@ -11,7 +11,7 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 [![Python](https://img.shields.io/badge/-Python-000000?Color=white)](https://github.com/jcarbonnell)
 
 #### Writing
-[![Medium](https://img.shields.io/badge/-Medium-000000?Color=white)([https://juliencarbonnell.medium.com/)]
+[![Medium](https://img.shields.io/badge/-Medium-000000?Color=white)](https://juliencarbonnell.medium.com/)
 [![Book](https://img.shields.io/badge/-Book_Author-000000?Color=white)]([https://a.co/d/0Ox4saC])
 
 #### Chill
