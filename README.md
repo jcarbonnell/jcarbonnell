@@ -23,7 +23,7 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 - 2024 - Buildspace #s5 
 - 2024 - Top 2 NEAR Horizon #HZN2
 - 2023 - Top 10 NEARCON IRL hackathon
-- 2023 - Encode x NEAR Horizon bootcamp
+- 2023 - Encode x NEAR bootcamp
 - 2022 - Top 2 Web3 startup lab
 - 2022 - Machine Learning Degree at opencampus
 - 2021 - Top 2 Data Native hackathon
