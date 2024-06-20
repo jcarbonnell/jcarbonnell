@@ -27,4 +27,4 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 - 2022 - Top 2 Web3 startup lab pre-accelerator
 - 2022 - Machine Learning Degree at opencampus
 - 2021 - Top 2 Data Native hackathon
-- 2020 - Ironhack Berlin 2020
+- 2020 - Ironhack Berlin 2020 bootcamp
