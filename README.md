@@ -20,6 +20,7 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 
 ## Experience
 
+- 2024 - Backdrop Build v5
 - 2024 - Buildspace #s5 
 - 2024 - Top 2 NEAR Horizon #HZN2 accelerator
 - 2023 - Top 10 NEARCON IRL hackathon
