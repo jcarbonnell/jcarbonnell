@@ -9,7 +9,7 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?Color=white)](https://github.com/partagexyz/marketplace)
 [![Rust](https://img.shields.io/badge/-Rust-000000?Color=white)](https://github.com/partagexyz/partage-lock)
 [![Python](https://img.shields.io/badge/-Python-000000?Color=white)](https://github.com/DemocracyStudio/stakeholder_engagement_simulation_model)
-[![C](https://img.shields.io/badge/-C-000000?Color=white)]()
+[![C](https://img.shields.io/badge/-C-000000?Color=white)](https://github.com/jcarbonnell/42barcelona)
 
 #### Writing
 [![Medium](https://img.shields.io/badge/-Medium-000000?Color=white)](https://juliencarbonnell.medium.com/)
