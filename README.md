@@ -20,6 +20,7 @@ Currently building Partage, a p2p sharing network of real-world items on the blo
 
 ## Experience
 
+- 2024 - NEAR Protocol rewards program
 - 2024 - 42 Barcelona
 - 2024 - Backdrop Build v5
 - 2024 - Buildspace #s5 
