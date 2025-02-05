@@ -20,7 +20,10 @@ Currently working on data privacy, self-sovereignty and ownership.
 
 ## Experience
 
-- 2024 - NEAR Protocol rewards program
+- 2025 - One Trillion Agents Hackathon
+- 2024 - NEAR Protocol rewards beta
+- 2024 - ETHglobal Bangkok
+- 2024 - DevCon 7
 - 2024 - 42 Barcelona
 - 2024 - Backdrop Build v5
 - 2024 - Buildspace #s5 
