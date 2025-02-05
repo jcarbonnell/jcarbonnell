@@ -27,6 +27,7 @@ Currently working on data privacy, self-sovereignty and ownership.
 - 2024 - 42 Barcelona
 - 2024 - Backdrop Build v5
 - 2024 - Buildspace #s5 
+- 2024 - Fine-Tuning and Deployment of LLMs course at opencampus
 - 2024 - Top 2 NEAR Horizon #HZN2 accelerator
 - 2023 - Top 10 NEARCON IRL hackathon
 - 2023 - Encode x NEAR bootcamp
