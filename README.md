@@ -1,7 +1,7 @@
 # Hi! 👋 
 
 I'm a blockchain & AI developer with a background in smart-city and civic technologies.
-Currently working on data privacy, self-sovereignty and ownership.
+Currently working on data ownership, self-sovereignty and access control.
 
 ## Skills
 
@@ -20,18 +20,19 @@ Currently working on data privacy, self-sovereignty and ownership.
 
 ## Experience
 
+- 2025 - Nominated for ML Prize by opencampus
 - 2025 - One Trillion Agents Hackathon
-- 2024 - NEAR Protocol rewards beta
+- 2024 - Selected for the NEAR Protocol rewards program
 - 2024 - ETHglobal Bangkok
 - 2024 - DevCon 7
 - 2024 - 42 Barcelona
 - 2024 - Backdrop Build v5
 - 2024 - Buildspace #s5 
-- 2024 - Fine-Tuning and Deployment of LLMs course at opencampus
+- 2024 - LLM course at opencampus
 - 2024 - Top 2 NEAR Horizon #HZN2 accelerator
 - 2023 - Top 10 NEARCON IRL hackathon
 - 2023 - Encode x NEAR bootcamp
 - 2022 - Top 2 Web3 startup lab pre-accelerator
 - 2022 - Machine Learning Degree at opencampus
 - 2021 - Top 2 Data Native hackathon
-- 2020 - Ironhack Berlin 2020 bootcamp
+- 2020 - Ironhack Berlin bootcamp
