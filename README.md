@@ -20,9 +20,10 @@ Currently working on data ownership, self-sovereignty and access control.
 
 ## Experience
 
+- 2025 - NEAR Protocol rewards Cohort 1
 - 2025 - Nominated for ML Prize by opencampus
 - 2025 - One Trillion Agents Hackathon
-- 2024 - Selected for the NEAR Protocol rewards
+- 2024 - NEAR Protocol rewards beta
 - 2024 - ETHglobal Bangkok
 - 2024 - DevCon 7
 - 2024 - 42 Barcelona
