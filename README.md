@@ -20,6 +20,8 @@ Currently working on data ownership, self-sovereignty and access control.
 
 ## Experience
 
+- 2026 - NearCon 26 Innovation Sandbox Sponsor
+- 2025 - Agents Without Masters Hackathon Berlin Blockchain Week
 - 2025 - NEAR Protocol rewards Cohort 1
 - 2025 - Nominated for ML Prize by opencampus
 - 2025 - One Trillion Agents Hackathon
